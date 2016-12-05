@@ -1,5 +1,5 @@
 {
-  "name": "workspace",
+  "name": "ser",
   "version": "1.0.0",
   "description": "ss",
   "main": "server.js",
@@ -17,10 +17,13 @@
     "type": "git",
     "url": "git+https://github.com/KostinStanislav/servak.git"
   },
-  "author": "",
+  "author": "i am",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KostinStanislav/servak/issues"
   },
-  "homepage": "https://github.com/KostinStanislav/servak#readme"
+  "homepage": "https://github.com/KostinStanislav/servak#readme",
+  "keywords": [
+    "node"
+  ]
 }
