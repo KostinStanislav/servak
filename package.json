@@ -1,0 +1,29 @@
+{
+  "name": "ser",
+  "version": "1.0.0",
+  "description": "ss",
+  "main": "server.js",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "ejs": "^2.4.1",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KostinStanislav/servak.git"
+  },
+  "author": "i am",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KostinStanislav/servak/issues"
+  },
+  "homepage": "https://github.com/KostinStanislav/servak#readme",
+  "keywords": [
+    "node"
+  ]
+}

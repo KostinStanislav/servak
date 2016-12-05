@@ -2,8 +2,8 @@ var http = require('http');
 var hostname = process.argv[5];
 var port =process.argv[3];
 if(!port||!hostname){
-  hostname = '127.3.3.3';
-     port = 3000; 
+  hostname = process.env.IP;
+     port = process.env.PORT; 
 }
 
 
